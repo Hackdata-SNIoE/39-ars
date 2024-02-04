@@ -74,3 +74,6 @@ Progressive Difficulty: As you successfully eliminate enemies, the game intensif
 Leaderboards: Compete with friends or players globally to climb the leaderboards based on your performance and accuracy in shooting down enemy ships.
 
 Prepare for an unparalleled gaming experience that seamlessly blends the real world with the virtual one. Sharpen your reflexes, employ strategic movements, and become the master of this 3D space shooting adventure!
+
+
+Assets folder contains the scripts folder which holds all of our C# code

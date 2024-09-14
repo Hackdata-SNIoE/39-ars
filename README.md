@@ -4,9 +4,9 @@ Team Information:
 
 Team Name: AR Shooter
 Team Members:
-Divyansh Goyal
-Nikhil Sethi
-Nikhil Yadav
+Divyansh Goyal ,
+Nikhil Sethi ,
+Nikhil Yadav and
 Nischal Varshney
 College: IMSEC
 Table Number: 39

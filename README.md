@@ -76,4 +76,4 @@ Leaderboards: Compete with friends or players globally to climb the leaderboards
 Prepare for an unparalleled gaming experience that seamlessly blends the real world with the virtual one. Sharpen your reflexes, employ strategic movements, and become the master of this 3D space shooting adventure!
 
 
-Assets folder contains the scripts folder which holds all of our C# code
+Assets folder contains the scripts folder which holds all of our C#  code .
